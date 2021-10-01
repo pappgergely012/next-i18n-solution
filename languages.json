@@ -1,0 +1,14 @@
+{
+  "en-US": {
+    "sayHi": "Hi from US"
+  },
+  "fr-CA": {
+    "sayHi": "Salut du canada en français"
+  },
+  "en-CA": {
+    "sayHi": "Hi from canada in english"
+  },
+  "hu-CA": {
+    "sayHi": "Üdv kanadából magyarul"
+  }
+}
